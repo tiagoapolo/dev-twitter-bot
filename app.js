@@ -52,8 +52,8 @@ function post(uri,params){
     })
 }
 
-function keywordToRegex(){
-    let keys = keywords.dev.toString()
+function keywordToRegex(context){
+    let keys = keywords[context].toString()
     return "(" + keys.replace(/,/g, ")|(") + ")"
 }
 
