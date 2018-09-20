@@ -1,0 +1,21 @@
+module.exports = {
+    dev:[
+        'react',
+        'js',
+        'javascript',
+        'angular',
+        'ecmascript',
+        'swift',
+        'aws',
+        'devops',
+        'container',
+        'released',
+        'firebase',
+        'ionic',
+        'cloud',
+        'web',
+        'app',
+        'node',
+        'nodejs'
+    ]
+}

@@ -1,51 +1,66 @@
 var Twit = require('twit')
 var Keys = require('./keys')
+var keywords = require('./keywords')
 
+
+// Replace with your API credentials.
+
+/*
+    var T = new Twit({
+        "consumer_key":         "...",
+        "consumer_secret":      "...",
+        "access_token":         "...",
+        "access_token_secret":  "...",
+        "timeout_ms":           60000,
+        "strictSSL":            true  
+    })
+*/
 
 var T = new Twit(Keys)
 
-// T.get('search/tweets', { q: '@tiagoapolo since:2018-09-01', count: 2 }, function(err, data, response) {
-//     // console.log(data)
-//     data.statuses.map(status => {
-//         console.log(status)
-//         console.log("\n-------------------------\n")
-//         console.log(status.entities)
-//     })
-// })
+// queryTweets({ q: '@tiagoapolo since:2018-09-01', count: 2 })
+// .then(data => console.log(data))
 
-T.get('statuses/user_timeline', { screen_name: 'addyosmani', result_type:'recent', exclude_replies: 'true', include_rts: 'false', count: 1 }, function(err, data, response) {
-    // console.log(data)
-    
-    resolver(data.map(status => {
-        console.log("--------- Start -------------")
-        // console.log(status)
-        console.log("---------  END  -------------")           
-        
-        return new Promise(resolve => resolve(status))
+get('statuses/user_timeline', { screen_name: 'addyosmani', result_type:'recent', exclude_replies: 'true', include_rts: 'false', count: 1 })
+.then(data => {
+   
+    return data.map(status => status.text.toLowerCase())
 
-    //    return new Promise(resolve => resolve(status.id))
-    }))
+}).then(status => {
     
+    reg = new RegExp(keywordToRegex())
+    console.log(`FOUND KEYWORD: ${reg.test(status[0])}`)
 
 })
 
 
-function resolver(promises){
-    Promise.all(promises)
-    .then(solution =>{
-
-        let tweet = solution[0]
-        let uri = "https://twitter.com"
-        let tweetIDStr = tweet.id_str
-        // let tweetID = tweet.id    
-
-        // T.post('statuses/update', { status: "Teste " + `${uri}/${tweet.user.screen_name}/status/${tweetIDStr}` }, (err, data, response) => {
-        //     console.log(data)
-        // })
-        
-
+function get(uri,params){
+    return new Promise((resolve, reject) => {
+        T.get(uri, params, function(err, data, response){
+            if(err) reject(err)
+            resolve(data, response)
+        })
     })
-    .catch(err => {
-        throw err
+}
+
+function post(uri,params){
+    return new Promise((resolve, reject) => {
+        T.post(uri, params, function(err, data, response){
+            if(err) reject(err)
+            resolve(data, response)
+        })
     })
+}
+
+function keywordToRegex(){
+    let keys = keywords.dev.toString()
+    return "(" + keys.replace(/,/g, ")|(") + ")"
+}
+
+function postWithTweet(status, tweet){
+    
+    let uri = "https://twitter.com"
+    let tweetIDStr = tweet.id_str
+
+    return post('statuses/update', { status: status + ` ${uri}/${tweet.user.screen_name}/status/${tweetIDStr}` })
 }
