@@ -1,0 +1,27 @@
+{
+  "name": "dev-twitter-bot",
+  "version": "1.0.0",
+  "description": "Query dev news and trends at Twitter",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagoapolo/dev-twitter-bot.git"
+  },
+  "dependencies": {
+    "twit": "~2.2.11"
+  },
+  "keywords": [
+    "bot",
+    "dev",
+    "news"
+  ],
+  "author": "Tiago Paiva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tiagoapolo/dev-twitter-bot/issues"
+  },
+  "homepage": "https://github.com/tiagoapolo/dev-twitter-bot#readme"
+}
