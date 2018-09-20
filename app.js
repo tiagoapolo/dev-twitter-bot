@@ -24,14 +24,24 @@ var T = new Twit(Keys)
 get('statuses/user_timeline', { screen_name: 'addyosmani', result_type:'recent', exclude_replies: 'true', include_rts: 'false', count: 1 })
 .then(data => {
    
-    return data.map(status => status.text.toLowerCase())
+    console.log(data)
+
+    return data.map(status => status)
 
 }).then(status => {
     
-    reg = new RegExp(keywordToRegex())
-    console.log(`FOUND KEYWORD: ${reg.test(status[0])}`)
+    reg = new RegExp(keywordToRegex('dev'))
+
+    // if(reg.test(status[0].text.toLowerCase()))
+    //     postWithTweet('Que tal ?', status[0])
+    //     .then(data => console.log('DONE!', data))
+    //     .catch(err => console.log(err))
+    // else   
+    //     console.log('No tweet for today 🙈')
+
 
 })
+.catch(err => console.log(err))
 
 
 function get(uri,params){
@@ -63,4 +73,13 @@ function postWithTweet(status, tweet){
     let tweetIDStr = tweet.id_str
 
     return post('statuses/update', { status: status + ` ${uri}/${tweet.user.screen_name}/status/${tweetIDStr}` })
+}
+
+function filterByDate(creadted_at){
+    let date = new Date(creadted_at)
+    let dmy = date.toLocaleString().split(' ')[0]
+    let hour = date.getHours()
+    let min = date.getMinutes()
+
+    
 }
