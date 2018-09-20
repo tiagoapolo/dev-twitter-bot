@@ -17,5 +17,16 @@ module.exports = {
         'app',
         'node',
         'nodejs'
+    ],
+    users:[
+        'addyosmani',
+        'googledevs',
+        'Firebase',
+        'nathankpeck',
+        'javascriptd',
+        'BenLesh',
+        '_jayphelps',
+        'ChromeDevTools',
+        'awscloud'
     ]
 }
