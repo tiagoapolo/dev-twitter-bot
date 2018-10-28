@@ -4,6 +4,7 @@
   "description": "Query dev news and trends at Twitter",
   "main": "app.js",
   "scripts": {
+    "postinstall": "yarn start bolsonaro nfl haddad",
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
