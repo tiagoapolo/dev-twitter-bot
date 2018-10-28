@@ -1,0 +1,381 @@
+yarn run v1.10.1
+$ node app.js bolsonaro nfl haddad
+
+===> Fetching tweets!
+
+===> Saving tweet for bolsonaro : RT @cher: 1.BOLSONARO  IS A PIG,WHO SHOULD BE LOCKED IN PRISON FOR THE REST OF HIS LIFE‼️!
+
+===> Saving tweet for nfl : @Moose_Ohh @DIRECTV @NFL Life saver! Thanks!!
+
+===> Saving tweet for haddad : RT @playoshi: MINHA AVÓ SENTIU QUE O HADDAD IA SER ELEITO PRESIDENTE E DEIXA EU FALAR SÓ
+
+ESSA MULHER É CHEIA DAS PREVISÕES!
+
+Time: 2018-10-28 19:15:37
+========== RANKING ==========
+| bolsonaro => 1 |
+---------------------------
+| nfl => 1 |
+---------------------------
+| haddad => 1 |
+---------------------------
+
+===> Fetching tweets!
+
+===> Saving tweet for bolsonaro : Ao contrário do que vejo alguns dizendo, caso a eleição de Bolsonaro se confirme, é dever nosso não se calar, seja… https://t.co/hpbp8ZBgLv!
+
+===> Saving tweet for nfl : @meine_NFL @Wortdurchfall Also ich finde das um EQ hier schon ein Hype gemacht wird.
+Um die Nzeocha-Brüder (Mark un… https://t.co/PG3BhbAoqa!
+
+===> Saving tweet for haddad : RT @JOAQUINTEIXElRA: ÚNICA CAPITAL QUE O HADDAD GANHOU NA EUROPA FOI EM PARIS, ONDE OS ARTISTAS BRASILEIROS RESOLVERAM MORAM COM DINHEIRO D…!
+
+Time: 2018-10-28 19:16:06
+========== RANKING ==========
+| bolsonaro => 2 |
+---------------------------
+| nfl => 2 |
+---------------------------
+| haddad => 2 |
+---------------------------
+
+===> Fetching tweets!
+
+===> Saving tweet for bolsonaro : RT @forastieri: O bandido foi lá, atirou no filho de uma sindicalista da CUT, matou o inocente e saiu gritando "Bolsonaro". Isso é o quê? É…!
+
+===> Saving tweet for nfl : Hey @DIRECTV NFL Ticket is too damn expensive to not work. What’s the deal!!
+
+Time: 2018-10-28 19:16:36
+========== RANKING ==========
+| bolsonaro => 3 |
+---------------------------
+| nfl => 3 |
+---------------------------
+| haddad => 2 |
+---------------------------
+
+===> Fetching tweets!
+
+===> Saving tweet for bolsonaro : Se Bolsonaro ganhar, falo menos de política!
+
+Agora, se ele perder... 
+EU FALO MENOS AINDA!!
+
+===> Saving tweet for nfl : Aaron Donald hitting Aaron Rodgers the most expensive collision in NFL history?!
+
+===> Saving tweet for haddad : RT @kccustic: "você atraí o que diz" 
+
+HADDAD VAI GANHAR
+HADDAD VAI GANHAR
+HADDAD VAI GANHAR
+HADDAD VAI GANHAR
+HADDAD VAI GANHAR
+HADDAD VAI…!
+
+Time: 2018-10-28 19:17:07
+========== RANKING ==========
+| bolsonaro => 4 |
+---------------------------
+| nfl => 4 |
+---------------------------
+| haddad => 3 |
+---------------------------
+
+===> Fetching tweets!
+
+===> Saving tweet for bolsonaro : RT @EuDouglasBr: Gratidão e carinho:
+
+Olavo de Carvalho
+Jair Bolsonaro
+Sérgio Moro
+Joice Hasselmann
+O Antagonista
+MBL
+Vem Pra Rua
+Lobão
+Fel…!
+
+===> Saving tweet for nfl : RT @ProfBlacktruth: The Pittsburg Steelers posted this image. Very touching. 
+Now, where were the NFL teams posting their solidarity with t…!
+
+Time: 2018-10-28 19:17:36
+========== RANKING ==========
+| bolsonaro => 5 |
+---------------------------
+| nfl => 5 |
+---------------------------
+| haddad => 3 |
+---------------------------
+
+===> Fetching tweets!
+
+===> Saving tweet for bolsonaro : RT @mitags: Meu consolo é que ninguém está com mais raiva do IBOPE e Data Folha do que Haddad.Foi na onda que Bolsonaro “perdia até pra Mar…!
+
+===> Saving tweet for nfl : RT @BortlesFacts: The @Eagles have never defeated Blake Bortles in the United States. https://t.co/pdqiMbzaG2!
+
+===> Saving tweet for haddad : @taryzottino @stelaaquino @dignidadencaqui Claro que vai ter resistência. Não apenas do Brasil, mas internacional.… https://t.co/RCtt1bhC2K!
+
+Time: 2018-10-28 19:18:07
+========== RANKING ==========
+| bolsonaro => 6 |
+---------------------------
+| nfl => 6 |
+---------------------------
+| haddad => 4 |
+---------------------------
+
+===> Fetching tweets!
+
+===> Saving tweet for nfl : RT @sn_nfl: Yes, Kareem Hunt did just hurdle and drag a defender to get into the end zone. 😳 
+https://t.co/dwM2WHEs66!
+
+===> Saving tweet for haddad : RT @ourswiftaylor: a mulher na 2ª foto é ana estela haddad, prof da usp, idealizadora do prouni e gestora de políticas públicas. não me esp…!
+
+Time: 2018-10-28 19:18:37
+========== RANKING ==========
+| bolsonaro => 6 |
+---------------------------
+| nfl => 7 |
+---------------------------
+| haddad => 5 |
+---------------------------
+
+===> Fetching tweets!
+
+===> Saving tweet for bolsonaro : RT @forastieri: Bolsonaro é infinitamente mais perigoso pro Brasil que Trump pros EUA. Porque nossa democracia é muito mais frágil. E Bolso…!
+
+===> Saving tweet for nfl : RT @NFLFoundation: Retweet AND Follow @NFLFoundation for a chance to win this GAME USED #CrucialCatch football! 
+
+Winner will be chosen 11/…!
+
+===> Saving tweet for haddad : @meza1212 @RalitoDigital @LulaOficial @lubrio @ElFusilDeideas @CarreroCarolina @teleSURtv @PatriciaDorta40… https://t.co/vQKKInNwgv!
+
+Time: 2018-10-28 19:19:07
+========== RANKING ==========
+| bolsonaro => 7 |
+---------------------------
+| nfl => 8 |
+---------------------------
+| haddad => 6 |
+---------------------------
+
+===> Fetching tweets!
+
+===> Saving tweet for bolsonaro : RT @Clauwild1: Em Israel, Jair Bolsonaro ganhou de Fernando Haddad com 77,27% dos votos válidos. Deve ser o primeiro caso onde um “nazista”…!
+
+===> Saving tweet for nfl : RT @BR_NFL: Too easy for AR-12
+
+(via @NFL) https://t.co/VxaPLLuOoX!
+
+===> Saving tweet for haddad : RT @Clauwild1: Em Israel, Jair Bolsonaro ganhou de Fernando Haddad com 77,27% dos votos válidos. Deve ser o primeiro caso onde um “nazista”…!
+
+Time: 2018-10-28 19:19:37
+========== RANKING ==========
+| bolsonaro => 8 |
+---------------------------
+| nfl => 9 |
+---------------------------
+| haddad => 7 |
+---------------------------
+
+===> Fetching tweets!
+
+===> Saving tweet for bolsonaro : RT @nandaxxie: Boletim das urnas
+João Pessoa
+Bolsonaro: 208
+Haddad: 99 https://t.co/D2pf6YrVCW!
+
+===> Saving tweet for nfl : @NFL @saquon @AdrianPeterson @squaresportnews https://t.co/sEwvyWf6BI!
+
+Time: 2018-10-28 19:20:07
+========== RANKING ==========
+| bolsonaro => 9 |
+---------------------------
+| nfl => 10 |
+---------------------------
+| haddad => 7 |
+---------------------------
+
+===> Fetching tweets!
+
+===> Saving tweet for bolsonaro : RT @garciajulia: Na frente da casa do Bolsonaro agora 😱 https://t.co/QBED5joRIY!
+
+Time: 2018-10-28 19:20:37
+========== RANKING ==========
+| bolsonaro => 10 |
+---------------------------
+| nfl => 10 |
+---------------------------
+| haddad => 7 |
+---------------------------
+
+===> Fetching tweets!
+
+===> Saving tweet for bolsonaro : RT @UOLNoticias: Militar reformado diz ter sido vítima de racismo por ser negro e apoiar Bolsonaro -https://t.co/m4q0eZFEpN - #UOLnasUrnas…!
+
+===> Saving tweet for haddad : Finalizado: Haddad 10.775. O outro: 2.500. Resultado Oficial.!
+
+Time: 2018-10-28 19:21:07
+========== RANKING ==========
+| bolsonaro => 11 |
+---------------------------
+| nfl => 10 |
+---------------------------
+| haddad => 8 |
+---------------------------
+
+===> Fetching tweets!
+
+===> Saving tweet for bolsonaro : RT @jovensreacinhas: Bolsonaro perdeu por mais de 70% em Berlim
+Foi derrotado por 90% na Palestina
+
+Em lugares onde a memória histórica sob…!
+
+===> Saving tweet for nfl : RT @Sheena_Marie3: #EricReid details the highly-incentivized deal the #NFL struck with the #PlayersCoalition https://t.co/FLFeLrz4w1!
+
+===> Saving tweet for haddad : O Nordeste precisa salvar o Brasil. Por favor eu te imploro, o Haddad tem que ganhar  #HaddadPresidente13 https://t.co/lIMMwqgAkq!
+
+Time: 2018-10-28 19:21:37
+========== RANKING ==========
+| bolsonaro => 12 |
+---------------------------
+| nfl => 11 |
+---------------------------
+| haddad => 9 |
+---------------------------
+
+===> Fetching tweets!
+
+===> Saving tweet for bolsonaro : RT @captainbarnez: o bolsonaro foi votar com colete a prova de balas kkkkkkkkkkkkkkkk mas ne ele q quer legalizar armas ne?? agora tá com m…!
+
+===> Saving tweet for nfl : RT @Steelersdepot: Can #Steelers Alejandro Villanueva finally start getting his due as being perhaps a top 10 left tackle in the NFL? Are y…!
+
+Time: 2018-10-28 19:22:07
+========== RANKING ==========
+| bolsonaro => 13 |
+---------------------------
+| nfl => 12 |
+---------------------------
+| haddad => 9 |
+---------------------------
+
+===> Fetching tweets!
+
+===> Saving tweet for bolsonaro : RT @laurawtff: "ain pipipi por que será que todo professor ou aluno de história é esquerdista/contra o bolsonaro?"
+
+porque a gente estuda h…!
+
+===> Saving tweet for nfl : RT @ESPNNFL: DeSean Jackson passes the 🐐
+
+Most 60-yd TD receptions in NFL history. https://t.co/poLWjViNs1!
+
+Time: 2018-10-28 19:22:37
+========== RANKING ==========
+| bolsonaro => 14 |
+---------------------------
+| nfl => 13 |
+---------------------------
+| haddad => 9 |
+---------------------------
+
+===> Fetching tweets!
+
+===> Saving tweet for bolsonaro : RT @EduPrimitivo: Abraçando eleitores do Bolsonaro x Haddad - Vamos compartilhar o amor? 
+
+Sigam o meu instagram - https://t.co/pLG5QnmaOh…!
+
+===> Saving tweet for nfl : RT @WillBrinson: Johnny Hekker is a top 25 NFL QB!
+
+===> Saving tweet for haddad : RT @fifthcmilas: haddad vai ganhar
+haddad vai ganhar
+haddad vai ganhar
+haddad vai ganhar
+haddad vai ganhar
+haddad vai ganhar
+
+deixa o amém…!
+
+Time: 2018-10-28 19:23:07
+========== RANKING ==========
+| bolsonaro => 15 |
+---------------------------
+| nfl => 14 |
+---------------------------
+| haddad => 10 |
+---------------------------
+
+===> Fetching tweets!
+
+===> Saving tweet for bolsonaro : RT @gransopi: Curiosos los panelistas de derecha:
+"Chile es Chile y Brasil es Brasil, Bolsonaro gobernará Brasil y aquí estamos en Chile"…!
+
+===> Saving tweet for nfl : @ottoscholl With the money the NFL makes they could surely do a better job covering the *S*   The NFL in California is a total wreck!
+
+===> Saving tweet for haddad : RT @omarciusmelhem: Nunca declarei voto porque acredito que humor é oposição critica a qualquer governo e não aceita alinhamento partidário…!
+
+Time: 2018-10-28 19:23:37
+========== RANKING ==========
+| bolsonaro => 16 |
+---------------------------
+| nfl => 15 |
+---------------------------
+| haddad => 11 |
+---------------------------
+
+===> Fetching tweets!
+
+===> Saving tweet for bolsonaro : RT @JUrruzola: Bolsonaro en el eje Washington-Miami | Estados Unidos le pide al candidato que sea “más duro” con Venezuela https://t.co/gFa…!
+
+===> Saving tweet for haddad : RT @FelypeCastanha: PIROCONA DO HADDAD DA VIRADA 
+      
+            🔴🔴
+          🔴✨🔴
+          🔴 H 🔴
+          🔴 A 🔴
+          🔴 D 🔴…!
+
+Time: 2018-10-28 19:24:07
+========== RANKING ==========
+| bolsonaro => 17 |
+---------------------------
+| nfl => 15 |
+---------------------------
+| haddad => 12 |
+---------------------------
+
+===> Fetching tweets!
+
+===> Saving tweet for nfl : The Gavel spoke with Arizona-based EXOS physical therapist Cruz Romero to chat about an athlete's preparation for t… https://t.co/XOxKCJxryF!
+
+===> Saving tweet for haddad : RT @DeputadoFederal: Confiante na vitória, @Haddad_Fernando pede paz e que as pessoas votem com a consciência em defesa das liberdades, que…!
+
+Time: 2018-10-28 19:24:37
+========== RANKING ==========
+| bolsonaro => 17 |
+---------------------------
+| nfl => 16 |
+---------------------------
+| haddad => 13 |
+---------------------------
+
+===> Fetching tweets!
+
+===> Saving tweet for bolsonaro : RT @FuckTheBand: Crivella
+Witzel
+Arolde de Olivera
+Flávio Bolsonaro
+
+Possivelmente Jair Bolsonaro. O Rio de Janeiro vai se tornar como as I…!
+
+===> Saving tweet for nfl : RT @AdamSchefter: The NFL’s new all-time leading scorer, Adam Vinatieri, who passed Morten Andersen (2,544 points) today on his way into th…!
+
+===> Saving tweet for haddad : RT @KalebPrime: Time to tune in to TeleSur and enjoy the impending Haddad asshurt #BrazilElections https://t.co/btZKL93rNe!
+
+Time: 2018-10-28 19:25:07
+========== RANKING ==========
+| bolsonaro => 18 |
+---------------------------
+| nfl => 17 |
+---------------------------
+| haddad => 14 |
+---------------------------
+Done in 570.87s.
