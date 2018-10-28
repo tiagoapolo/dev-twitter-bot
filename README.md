@@ -14,3 +14,13 @@ A metodologia utilizada foi a de coletar um conjunto de 3 tweets, 1 tweet para c
 - Foram feitas chamadas na rota `search/tweets` para coletar os tweets por palavras chave
 
 - Log constando o funcionamento do algoritmo durante os 10 minutos consta no repositório.
+
+#### Executar 
+
+Instale os pacotes com Yarn ou NPM:
+
+    yarn install
+
+Rode com as palavras chave:
+
+    yarn start <palavra-chave> <palavra-chave> <palavra-chave> ...
